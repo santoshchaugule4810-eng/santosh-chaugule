@@ -177,6 +177,41 @@ h2 {
     margin-bottom: 6px;
 }
 
+.skill-level {
+    height: 8px;
+    margin-top: 14px;
+    overflow: hidden;
+    border-radius: 10px;
+    background-color: #dbeafe;
+}
+
+.skill-level span {
+    display: block;
+    height: 100%;
+    border-radius: 10px;
+    background-color: #2563eb;
+}
+
+.level-65 {
+    width: 65%;
+}
+
+.level-70 {
+    width: 70%;
+}
+
+.level-75 {
+    width: 75%;
+}
+
+.level-80 {
+    width: 80%;
+}
+
+.level-85 {
+    width: 85%;
+}
+
 .projects-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);

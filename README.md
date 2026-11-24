@@ -15,5 +15,5 @@ Open `index.html` in a browser, or use VS Code Live Server.
 
 ## Personalize
 
-Replace the example email in `index.html` and update the LinkedIn and GitHub
-links with your real profile URLs.
+Update the LinkedIn and GitHub links in `index.html` with your real profile
+URLs before submitting the assignment.
